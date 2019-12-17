@@ -238,6 +238,7 @@ You can request access here:
 * [BotWiki](https://botwiki.org/) - Botwiki is an open catalog of friendly, useful, artistic online bots, and tools and tutorials that can help you make them
 * [TopBots](http://www.topbots.com/) - We scour the net for the latest content about bots & artificial intelligence. Be the FIRST to know & understand technical breakthroughs that change how we live and work
 * [Chatbot's Life](https://chatbotslife.com/) - Everything you want to know about chatbots
+* [Chatbot Cyfuture](https://cyfuture.com/) - Avail Your Chatbot From Cyfuture.
 * [ChatbotNewsDaily](https://chatbotnewsdaily.com/) - An Introduction to Chatbots, Messaging Channels and the History of Artificial Intelligence and Robots
 * [Bot Stash](http://www.botsfloor.com/botstash/) - A curated directory of chat bot resources & tools
 * [Planeta Chatbot](https://planetachatbot.com/?fref=gc) - A chatbot magazine originally created in Spain with the purpose of sharing the latest content about chatbots.
